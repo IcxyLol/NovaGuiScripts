@@ -6,3 +6,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-Murd
 
 -- // - Nova Gui - The Maze - \\ --
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/NovasGuiTheMaze/main/README.md", true))()
+
+-- // - Trash Talk Script - \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/TrashTalk/main/README.md", true))()
